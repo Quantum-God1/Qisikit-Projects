@@ -63,31 +63,6 @@ $$\lim_{N \to \infty} P(|0\rangle) = 1$$
 
 ---
 
-## Installation & Requirements
-
-Ensure you have Python 3.9+ installed along with the required quantum and data visualization libraries:
-
-```bash
-pip install qiskit qiskit-aer matplotlib numpy
-```
-
----
-
-## Running the Notebook
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/quantum-zeno-effect.git
-   cd quantum-zeno-effect
-   ```
-2. Launch Jupyter Notebook or VS Code:
-   ```bash
-   jupyter notebook quantum_zeno.ipynb
-   ```
-3. Run all cells to execute the circuits, compute probabilities, and output the comparison visualizer.
-
----
-
 ## Significance & Applications
 
 1. **Quantum State Preservation:** Demonstrates foundational concepts behind preventing unwanted state drift in physical hardware.
